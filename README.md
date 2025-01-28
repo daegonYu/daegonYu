@@ -1,4 +1,4 @@
-# 👋 Hi, I'm working as a LLM Engineering
+# 👋 Hi, I'm working as a LLM Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/daegonYu?label=Follow&style=social)](https://github.com/daegonYu)
 [![GitHub stars](https://img.shields.io/github/stars/daegonYu?label=Stars&style=social)](https://github.com/daegonYu)
