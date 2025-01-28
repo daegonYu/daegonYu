@@ -29,10 +29,4 @@
 ---
 
 ## 🏆 Achievements
-- 🔧 Contributor to [sentence-transformers](https://github.com/UKPLab/sentence-transformers).
-
----
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=daegonYu&theme=radical)
-
-
+- 🔧 Contributor to [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
