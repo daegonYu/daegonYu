@@ -12,6 +12,11 @@ https://daegonyu.github.io/study_blog/
 
 ---
 
+## 🏆 Achievements
+- 🔧 Contributor to [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+
+---
+
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -32,7 +37,4 @@ https://daegonyu.github.io/study_blog/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daegonYu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daegonYu&layout=compact&theme=radical)
 
----
 
-## 🏆 Achievements
-- 🔧 Contributor to [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
