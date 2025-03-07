@@ -6,6 +6,12 @@
 
 ---
 
+## Portfolio
+
+https://daegonyu.github.io/study_blog/
+
+---
+
 ## 🛠️ Skills
 
 ### Programming Languages
