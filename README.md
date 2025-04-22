@@ -1,7 +1,6 @@
 # 👋 Hi, I'm working as a AI Engineer
 
 I am interested in embedding models and LLM
-
 ---
 
 ## 📝 Study Blog
