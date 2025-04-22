@@ -1,8 +1,6 @@
-# 👋 Hi, I'm working as a LLM Engineer
+# 👋 Hi, I'm working as a AI Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/daegonYu?label=Follow&style=social)](https://github.com/daegonYu)
-[![GitHub stars](https://img.shields.io/github/stars/daegonYu?label=Stars&style=social)](https://github.com/daegonYu)
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=daegonYu.daegonYu)](https://github.com/daegonYu)
+I am interested in embedding models and LLM
 
 ---
 
